@@ -8,5 +8,5 @@ def hello(name):
 def night(name):
   print(f"good night, {name}")
 
-if __int__ == "__main__":
+if __name__ == "__main__":
   main()
