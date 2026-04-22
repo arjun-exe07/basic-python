@@ -9,3 +9,7 @@ Author - Arjun Kadam
 3) sys - argv , exit
 
 
+packages:
+1) cowsay - cow , trex
+2) requests - get , 
+
