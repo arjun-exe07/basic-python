@@ -7,6 +7,7 @@ Author - Arjun Kadam
 1) random - randint, shuffle, choice
 2) statistics - mean
 3) sys - argv , exit
+4) json - dumps
 
 
 packages:
