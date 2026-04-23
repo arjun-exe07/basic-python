@@ -10,7 +10,7 @@ Author - Arjun Kadam
 4) json - dumps
 
 
-packages:
+pip install
 1) cowsay - cow , trex
 2) requests - get , 
-
+3) pytest
