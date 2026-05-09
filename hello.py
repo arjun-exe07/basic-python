@@ -9,7 +9,7 @@ def night(name):
   print(f"good night, {name}")
 
 def sq(x):
-  return x+x
+  return x*x
 
 if __name__ == "__main__":
   main()
