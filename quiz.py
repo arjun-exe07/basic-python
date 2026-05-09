@@ -37,3 +37,5 @@ else :
   print("Incorrect !")
 
 print(f'''You got {score} correct out of 4 Question. ''')
+
+print("Thanks for playing ")
