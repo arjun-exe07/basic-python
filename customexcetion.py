@@ -12,5 +12,5 @@ try:
     print("you are eligible for voting")
 
 except NotEligible as e:
-  print("Custom Error :",e)
+  print("Custom Error :", e)
 
